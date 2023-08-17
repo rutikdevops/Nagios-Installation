@@ -130,6 +130,7 @@ service httpd restart
 - username= , passwd=                ## Whatever you set
 
 
+<img width="945" alt="image" src="https://github.com/rutikdevops/Nagios-Installation/assets/109506158/c586f78b-f854-4794-be83-094aa94ff6e8">
 
 
 
